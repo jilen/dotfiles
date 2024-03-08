@@ -1,5 +1,7 @@
 # Hyprland 桌面设置
 
+![scrot](https://raw.githubusercontent.com/jilen/dotfiles/main/desktop.webp)
+
 ## 使用的软件
 + waybar
 + dunst
